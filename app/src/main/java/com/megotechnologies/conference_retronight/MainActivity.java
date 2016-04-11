@@ -197,7 +197,7 @@ public class MainActivity extends Activity implements ZCActivityLifecycle, ZCRun
 
 	// Notifications
 
-	public static int NOTIF_SLEEP_TIME = 30000;
+	public static int NOTIF_SLEEP_TIME = 300000;
 
 	// Load More
 

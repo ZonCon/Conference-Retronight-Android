@@ -492,12 +492,12 @@
         "source": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/src/main/res/drawable-xhdpi/l_5.gif"
     },
     {
-        "merged": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_plus_signin_btn_text_light_focused.9.png",
-        "source": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xhdpi/common_plus_signin_btn_text_light_focused.9.png"
-    },
-    {
         "merged": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_cast_on_1_light.png",
         "source": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable-xhdpi/ic_cast_on_1_light.png"
+    },
+    {
+        "merged": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_plus_signin_btn_text_light_focused.9.png",
+        "source": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xhdpi/common_plus_signin_btn_text_light_focused.9.png"
     },
     {
         "merged": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_pause_light.png",
