@@ -223,7 +223,7 @@ public class FragmentSectionsCategories extends FragmentMeta implements ZCFragme
 
 				ImageView iv = new ImageView(activity.context);
 				RelativeLayout.LayoutParams rParamsIv = new RelativeLayout.LayoutParams(RelativeLayout.LayoutParams.FILL_PARENT,
-						(rowHeightLarge - (rowHeight / 5)));
+						(rowHeightLarge));
 				rParamsIv.addRule(RelativeLayout.ALIGN_PARENT_TOP, RelativeLayout.TRUE);
 				iv.setLayoutParams(rParamsIv);
 				iv.setImageDrawable(getResources().getDrawable(R.drawable.ic_launcher));
@@ -234,28 +234,28 @@ public class FragmentSectionsCategories extends FragmentMeta implements ZCFragme
 				rlRow.addView(iv);
 
 				TextView tv = new TextView(activity.context);
-				RelativeLayout.LayoutParams rParamsTv = new RelativeLayout.LayoutParams(RelativeLayout.LayoutParams.FILL_PARENT, rowHeight / 5);
+				RelativeLayout.LayoutParams rParamsTv = new RelativeLayout.LayoutParams(RelativeLayout.LayoutParams.FILL_PARENT, RelativeLayout.LayoutParams.WRAP_CONTENT);
 				rParamsTv.addRule(RelativeLayout.ALIGN_PARENT_BOTTOM, RelativeLayout.TRUE);
 				tv.setLayoutParams(rParamsTv);
 				tv.setGravity(Gravity.CENTER | Gravity.LEFT);
 				tv.setBackgroundColor(getResources().getColor(R.color.black));
 				tv.setText(map.get(MainActivity.DB_COL_NAME).toUpperCase());
 				tv.setTextColor(getResources().getColor(R.color.text_color));
-				tv.setPadding(MainActivity.SPACING, 0, 0, 0);
-				tv.setTextSize(rowHeight / 15);
+				tv.setPadding(MainActivity.SPACING, MainActivity.SPACING, MainActivity.SPACING, MainActivity.SPACING);
+				tv.setTextSize(MainActivity.TEXT_SIZE_TITLE);
 				tv.setLineSpacing(0.0f, 1.2f);
 				rlRow.addView(tv);
 				tvBannerTitle = tv;
 
 				TextView tvSub = new TextView(activity.context);
-				rParamsTv = new RelativeLayout.LayoutParams(RelativeLayout.LayoutParams.FILL_PARENT, rowHeight / 5);
+				rParamsTv = new RelativeLayout.LayoutParams(RelativeLayout.LayoutParams.FILL_PARENT, RelativeLayout.LayoutParams.WRAP_CONTENT);
 				rParamsTv.addRule(RelativeLayout.ALIGN_PARENT_TOP, RelativeLayout.TRUE);
 				tvSub.setLayoutParams(rParamsTv);
 				tvSub.setGravity(Gravity.CENTER | Gravity.LEFT);
 				tvSub.setText(map.get(MainActivity.DB_COL_NAME).toUpperCase());
 				tvSub.setTextColor(getResources().getColor(R.color.text_color));
-				tvSub.setPadding(MainActivity.SPACING, 0, 0, 0);
-				tvSub.setTextSize(rowHeight / 15);
+				tvSub.setPadding(MainActivity.SPACING, MainActivity.SPACING, MainActivity.SPACING, MainActivity.SPACING);
+				tvSub.setTextSize(MainActivity.TEXT_SIZE_TILE);
 				tvSub.setShadowLayer(1, 1, 1, getResources().getColor(R.color.black));
 				tvSub.setLineSpacing(0.0f, 1.2f);
 				rlRow.addView(tvSub);
@@ -404,13 +404,14 @@ public class FragmentSectionsCategories extends FragmentMeta implements ZCFragme
 					rlRow.addView(iv);
 
 					TextView tv = new TextView(activity.context);
-					RelativeLayout.LayoutParams rParamsTv = new RelativeLayout.LayoutParams(RelativeLayout.LayoutParams.FILL_PARENT, rowHeight / 5);
+					RelativeLayout.LayoutParams rParamsTv = new RelativeLayout.LayoutParams(RelativeLayout.LayoutParams.FILL_PARENT, RelativeLayout.LayoutParams.WRAP_CONTENT);
 					rParamsTv.addRule(RelativeLayout.ALIGN_PARENT_BOTTOM, RelativeLayout.TRUE);
 					tv.setLayoutParams(rParamsTv);
 					tv.setGravity(Gravity.CENTER);
 					tv.setText(map.get(MainActivity.DB_COL_NAME).toUpperCase());
 					tv.setTextColor(getResources().getColor(R.color.text_color));
-					tv.setTextSize(rowHeight / 15);
+					tv.setTextSize(MainActivity.TEXT_SIZE_TILE);
+					tv.setPadding(MainActivity.SPACING, MainActivity.SPACING, MainActivity.SPACING, MainActivity.SPACING);
 					tv.setLineSpacing(0.0f, 1.2f);
 					rlRow.addView(tv);
 

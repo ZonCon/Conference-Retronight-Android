@@ -1683,13 +1683,13 @@
                     "endOffset": 18044
                 },
                 "from": {
-                    "file": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/8.4.0/res/values-v21/appinvite_styles.xml",
+                    "file": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/9.4.0/res/values-v21/values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 101,
+                        "startOffset": 219,
                         "endColumn": 121,
-                        "endOffset": 218
+                        "endOffset": 336
                     }
                 }
             }

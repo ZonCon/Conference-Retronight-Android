@@ -330,17 +330,17 @@
                     "startLine": 19,
                     "startColumn": 4,
                     "startOffset": 1969,
-                    "endColumn": 309,
-                    "endOffset": 2274
+                    "endColumn": 98,
+                    "endOffset": 2063
                 },
                 "from": {
-                    "file": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-hu/base_strings.xml",
+                    "file": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/res/values-hu/values.xml",
                     "position": {
-                        "startLine": 24,
+                        "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 3748,
-                        "endColumn": 313,
-                        "endOffset": 4057
+                        "startOffset": 344,
+                        "endColumn": 98,
+                        "endOffset": 438
                     }
                 }
             },
@@ -348,18 +348,18 @@
                 "to": {
                     "startLine": 20,
                     "startColumn": 4,
-                    "startOffset": 2279,
-                    "endColumn": 140,
-                    "endOffset": 2415
+                    "startOffset": 2068,
+                    "endColumn": 88,
+                    "endOffset": 2152
                 },
                 "from": {
-                    "file": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-hu/base_strings.xml",
+                    "file": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/res/values-hu/values.xml",
                     "position": {
-                        "startLine": 10,
+                        "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 1427,
-                        "endColumn": 140,
-                        "endOffset": 1563
+                        "startOffset": 443,
+                        "endColumn": 88,
+                        "endOffset": 527
                     }
                 }
             },
@@ -367,18 +367,18 @@
                 "to": {
                     "startLine": 21,
                     "startColumn": 4,
-                    "startOffset": 2420,
-                    "endColumn": 215,
-                    "endOffset": 2631
+                    "startOffset": 2157,
+                    "endColumn": 117,
+                    "endOffset": 2270
                 },
                 "from": {
-                    "file": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-hu/base_strings.xml",
+                    "file": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/res/values-hu/values.xml",
                     "position": {
-                        "startLine": 9,
+                        "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 1207,
-                        "endColumn": 219,
-                        "endOffset": 1422
+                        "startOffset": 532,
+                        "endColumn": 117,
+                        "endOffset": 645
                     }
                 }
             },
@@ -386,18 +386,18 @@
                 "to": {
                     "startLine": 22,
                     "startColumn": 4,
-                    "startOffset": 2636,
-                    "endColumn": 139,
-                    "endOffset": 2771
+                    "startOffset": 2275,
+                    "endColumn": 87,
+                    "endOffset": 2358
                 },
                 "from": {
-                    "file": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-hu/base_strings.xml",
+                    "file": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/res/values-hu/values.xml",
                     "position": {
-                        "startLine": 8,
+                        "startLine": 7,
                         "startColumn": 4,
-                        "startOffset": 1067,
-                        "endColumn": 139,
-                        "endOffset": 1202
+                        "startOffset": 650,
+                        "endColumn": 87,
+                        "endOffset": 733
                     }
                 }
             },
@@ -405,18 +405,18 @@
                 "to": {
                     "startLine": 23,
                     "startColumn": 4,
-                    "startOffset": 2776,
-                    "endColumn": 140,
-                    "endOffset": 2912
+                    "startOffset": 2363,
+                    "endColumn": 111,
+                    "endOffset": 2470
                 },
                 "from": {
-                    "file": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-hu/base_strings.xml",
+                    "file": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/res/values-hu/values.xml",
                     "position": {
-                        "startLine": 7,
+                        "startLine": 8,
                         "startColumn": 4,
-                        "startOffset": 926,
-                        "endColumn": 140,
-                        "endOffset": 1062
+                        "startOffset": 738,
+                        "endColumn": 111,
+                        "endOffset": 845
                     }
                 }
             },
@@ -424,18 +424,18 @@
                 "to": {
                     "startLine": 24,
                     "startColumn": 4,
-                    "startOffset": 2917,
-                    "endColumn": 232,
-                    "endOffset": 3145
+                    "startOffset": 2475,
+                    "endColumn": 100,
+                    "endOffset": 2571
                 },
                 "from": {
-                    "file": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-hu/base_strings.xml",
+                    "file": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/res/values-hu/values.xml",
                     "position": {
-                        "startLine": 5,
+                        "startLine": 9,
                         "startColumn": 4,
-                        "startOffset": 450,
-                        "endColumn": 236,
-                        "endOffset": 682
+                        "startOffset": 850,
+                        "endColumn": 100,
+                        "endOffset": 946
                     }
                 }
             },
@@ -443,18 +443,18 @@
                 "to": {
                     "startLine": 25,
                     "startColumn": 4,
-                    "startOffset": 3150,
-                    "endColumn": 234,
-                    "endOffset": 3380
+                    "startOffset": 2576,
+                    "endColumn": 83,
+                    "endOffset": 2655
                 },
                 "from": {
-                    "file": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-hu/base_strings.xml",
+                    "file": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/res/values-hu/values.xml",
                     "position": {
-                        "startLine": 6,
+                        "startLine": 10,
                         "startColumn": 4,
-                        "startOffset": 687,
-                        "endColumn": 238,
-                        "endOffset": 921
+                        "startOffset": 951,
+                        "endColumn": 83,
+                        "endOffset": 1030
                     }
                 }
             },
@@ -462,18 +462,18 @@
                 "to": {
                     "startLine": 26,
                     "startColumn": 4,
-                    "startOffset": 3385,
-                    "endColumn": 139,
-                    "endOffset": 3520
+                    "startOffset": 2660,
+                    "endColumn": 103,
+                    "endOffset": 2759
                 },
                 "from": {
-                    "file": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-hu/base_strings.xml",
+                    "file": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/res/values-hu/values.xml",
                     "position": {
-                        "startLine": 4,
+                        "startLine": 11,
                         "startColumn": 4,
-                        "startOffset": 310,
-                        "endColumn": 139,
-                        "endOffset": 445
+                        "startOffset": 1035,
+                        "endColumn": 103,
+                        "endOffset": 1134
                     }
                 }
             },
@@ -481,18 +481,18 @@
                 "to": {
                     "startLine": 27,
                     "startColumn": 4,
-                    "startOffset": 3525,
-                    "endColumn": 176,
-                    "endOffset": 3697
+                    "startOffset": 2764,
+                    "endColumn": 107,
+                    "endOffset": 2867
                 },
                 "from": {
-                    "file": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-hu/base_strings.xml",
+                    "file": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/res/values-hu/values.xml",
                     "position": {
-                        "startLine": 19,
+                        "startLine": 12,
                         "startColumn": 4,
-                        "startOffset": 2932,
-                        "endColumn": 176,
-                        "endOffset": 3104
+                        "startOffset": 1139,
+                        "endColumn": 107,
+                        "endOffset": 1242
                     }
                 }
             },
@@ -500,18 +500,18 @@
                 "to": {
                     "startLine": 28,
                     "startColumn": 4,
-                    "startOffset": 3702,
-                    "endColumn": 121,
-                    "endOffset": 3819
+                    "startOffset": 2872,
+                    "endColumn": 107,
+                    "endOffset": 2975
                 },
                 "from": {
-                    "file": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-hu/base_strings.xml",
+                    "file": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/res/values-hu/values.xml",
                     "position": {
-                        "startLine": 18,
+                        "startLine": 13,
                         "startColumn": 4,
-                        "startOffset": 2810,
-                        "endColumn": 121,
-                        "endOffset": 2927
+                        "startOffset": 1247,
+                        "endColumn": 107,
+                        "endOffset": 1350
                     }
                 }
             },
@@ -519,18 +519,18 @@
                 "to": {
                     "startLine": 29,
                     "startColumn": 4,
-                    "startOffset": 3824,
-                    "endColumn": 184,
-                    "endOffset": 4004
+                    "startOffset": 2980,
+                    "endColumn": 75,
+                    "endOffset": 3051
                 },
                 "from": {
-                    "file": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-hu/base_strings.xml",
+                    "file": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/res/values-hu/values.xml",
                     "position": {
-                        "startLine": 17,
+                        "startLine": 14,
                         "startColumn": 4,
-                        "startOffset": 2625,
-                        "endColumn": 184,
-                        "endOffset": 2805
+                        "startOffset": 1355,
+                        "endColumn": 75,
+                        "endOffset": 1426
                     }
                 }
             },
@@ -538,18 +538,18 @@
                 "to": {
                     "startLine": 30,
                     "startColumn": 4,
-                    "startOffset": 4009,
-                    "endColumn": 119,
-                    "endOffset": 4124
+                    "startOffset": 3056,
+                    "endColumn": 151,
+                    "endOffset": 3203
                 },
                 "from": {
-                    "file": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-hu/base_strings.xml",
+                    "file": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/9.4.0/res/values-hu/values.xml",
                     "position": {
-                        "startLine": 16,
+                        "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 2505,
-                        "endColumn": 119,
-                        "endOffset": 2620
+                        "startOffset": 333,
+                        "endColumn": 151,
+                        "endOffset": 480
                     }
                 }
             },
@@ -557,18 +557,18 @@
                 "to": {
                     "startLine": 31,
                     "startColumn": 4,
-                    "startOffset": 4129,
-                    "endColumn": 139,
-                    "endOffset": 4264
+                    "startOffset": 3208,
+                    "endColumn": 152,
+                    "endOffset": 3356
                 },
                 "from": {
-                    "file": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-hu/base_strings.xml",
+                    "file": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/9.4.0/res/values-hu/values.xml",
                     "position": {
-                        "startLine": 3,
+                        "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 170,
-                        "endColumn": 139,
-                        "endOffset": 305
+                        "startOffset": 485,
+                        "endColumn": 152,
+                        "endOffset": 633
                     }
                 }
             },
@@ -576,18 +576,18 @@
                 "to": {
                     "startLine": 32,
                     "startColumn": 4,
-                    "startOffset": 4269,
-                    "endColumn": 180,
-                    "endOffset": 4445
+                    "startOffset": 3361,
+                    "endColumn": 98,
+                    "endOffset": 3455
                 },
                 "from": {
-                    "file": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-hu/base_strings.xml",
+                    "file": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/9.4.0/res/values-hu/values.xml",
                     "position": {
-                        "startLine": 28,
+                        "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 4526,
-                        "endColumn": 180,
-                        "endOffset": 4702
+                        "startOffset": 638,
+                        "endColumn": 98,
+                        "endOffset": 732
                     }
                 }
             },
@@ -595,18 +595,18 @@
                 "to": {
                     "startLine": 33,
                     "startColumn": 4,
-                    "startOffset": 4450,
-                    "endColumn": 149,
-                    "endOffset": 4595
+                    "startOffset": 3460,
+                    "endColumn": 82,
+                    "endOffset": 3538
                 },
                 "from": {
-                    "file": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-hu/base_strings.xml",
+                    "file": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/res/values-hu/values.xml",
                     "position": {
-                        "startLine": 27,
+                        "startLine": 15,
                         "startColumn": 4,
-                        "startOffset": 4376,
-                        "endColumn": 149,
-                        "endOffset": 4521
+                        "startOffset": 1431,
+                        "endColumn": 82,
+                        "endOffset": 1509
                     }
                 }
             },
@@ -614,18 +614,18 @@
                 "to": {
                     "startLine": 34,
                     "startColumn": 4,
-                    "startOffset": 4600,
-                    "endColumn": 181,
-                    "endOffset": 4777
+                    "startOffset": 3543,
+                    "endColumn": 77,
+                    "endOffset": 3616
                 },
                 "from": {
-                    "file": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-hu/base_strings.xml",
+                    "file": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/res/values-hu/values.xml",
                     "position": {
-                        "startLine": 26,
+                        "startLine": 16,
                         "startColumn": 4,
-                        "startOffset": 4194,
-                        "endColumn": 181,
-                        "endOffset": 4371
+                        "startOffset": 1514,
+                        "endColumn": 77,
+                        "endOffset": 1587
                     }
                 }
             },
@@ -633,18 +633,18 @@
                 "to": {
                     "startLine": 35,
                     "startColumn": 4,
-                    "startOffset": 4782,
-                    "endColumn": 131,
-                    "endOffset": 4909
+                    "startOffset": 3621,
+                    "endColumn": 83,
+                    "endOffset": 3700
                 },
                 "from": {
-                    "file": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-hu/base_strings.xml",
+                    "file": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/res/values-hu/values.xml",
                     "position": {
-                        "startLine": 25,
+                        "startLine": 17,
                         "startColumn": 4,
-                        "startOffset": 4062,
-                        "endColumn": 131,
-                        "endOffset": 4189
+                        "startOffset": 1592,
+                        "endColumn": 83,
+                        "endOffset": 1671
                     }
                 }
             },
@@ -652,18 +652,18 @@
                 "to": {
                     "startLine": 36,
                     "startColumn": 4,
-                    "startOffset": 4914,
-                    "endColumn": 294,
-                    "endOffset": 5204
+                    "startOffset": 3705,
+                    "endColumn": 103,
+                    "endOffset": 3804
                 },
                 "from": {
-                    "file": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/res/values-hu/common_strings.xml",
+                    "file": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/res/values-hu/values.xml",
                     "position": {
-                        "startLine": 3,
+                        "startLine": 18,
                         "startColumn": 4,
-                        "startOffset": 170,
-                        "endColumn": 298,
-                        "endOffset": 464
+                        "startOffset": 1676,
+                        "endColumn": 103,
+                        "endOffset": 1775
                     }
                 }
             },
@@ -671,18 +671,18 @@
                 "to": {
                     "startLine": 37,
                     "startColumn": 4,
-                    "startOffset": 5209,
-                    "endColumn": 294,
-                    "endOffset": 5499
+                    "startOffset": 3809,
+                    "endColumn": 102,
+                    "endOffset": 3907
                 },
                 "from": {
-                    "file": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-hu/base_strings.xml",
+                    "file": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/res/values-hu/values.xml",
                     "position": {
-                        "startLine": 21,
+                        "startLine": 19,
                         "startColumn": 4,
-                        "startOffset": 3239,
-                        "endColumn": 298,
-                        "endOffset": 3533
+                        "startOffset": 1780,
+                        "endColumn": 102,
+                        "endOffset": 1878
                     }
                 }
             },
@@ -690,18 +690,18 @@
                 "to": {
                     "startLine": 38,
                     "startColumn": 4,
-                    "startOffset": 5504,
-                    "endColumn": 129,
-                    "endOffset": 5629
+                    "startOffset": 3912,
+                    "endColumn": 92,
+                    "endOffset": 4000
                 },
                 "from": {
-                    "file": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-hu/base_strings.xml",
+                    "file": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/res/values-hu/values.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
-                        "startOffset": 3109,
-                        "endColumn": 129,
-                        "endOffset": 3234
+                        "startOffset": 1883,
+                        "endColumn": 92,
+                        "endOffset": 1971
                     }
                 }
             },
@@ -709,18 +709,18 @@
                 "to": {
                     "startLine": 39,
                     "startColumn": 4,
-                    "startOffset": 5634,
-                    "endColumn": 109,
-                    "endOffset": 5739
+                    "startOffset": 4005,
+                    "endColumn": 97,
+                    "endOffset": 4098
                 },
                 "from": {
-                    "file": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-hu/base_strings.xml",
+                    "file": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/res/values-hu/values.xml",
                     "position": {
-                        "startLine": 22,
+                        "startLine": 21,
                         "startColumn": 4,
-                        "startOffset": 3538,
-                        "endColumn": 109,
-                        "endOffset": 3643
+                        "startOffset": 1976,
+                        "endColumn": 97,
+                        "endOffset": 2069
                     }
                 }
             },
@@ -728,18 +728,18 @@
                 "to": {
                     "startLine": 40,
                     "startColumn": 4,
-                    "startOffset": 5744,
-                    "endColumn": 215,
-                    "endOffset": 5955
+                    "startOffset": 4103,
+                    "endColumn": 94,
+                    "endOffset": 4193
                 },
                 "from": {
-                    "file": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-hu/base_strings.xml",
+                    "file": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/res/values-hu/values.xml",
                     "position": {
-                        "startLine": 12,
+                        "startLine": 22,
                         "startColumn": 4,
-                        "startOffset": 1707,
-                        "endColumn": 219,
-                        "endOffset": 1922
+                        "startOffset": 2074,
+                        "endColumn": 94,
+                        "endOffset": 2164
                     }
                 }
             },
@@ -747,18 +747,18 @@
                 "to": {
                     "startLine": 41,
                     "startColumn": 4,
-                    "startOffset": 5960,
-                    "endColumn": 138,
-                    "endOffset": 6094
+                    "startOffset": 4198,
+                    "endColumn": 77,
+                    "endOffset": 4271
                 },
                 "from": {
-                    "file": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-hu/base_strings.xml",
+                    "file": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/res/values-hu/values.xml",
                     "position": {
-                        "startLine": 11,
+                        "startLine": 23,
                         "startColumn": 4,
-                        "startOffset": 1568,
-                        "endColumn": 138,
-                        "endOffset": 1702
+                        "startOffset": 2169,
+                        "endColumn": 77,
+                        "endOffset": 2242
                     }
                 }
             },
@@ -766,18 +766,18 @@
                 "to": {
                     "startLine": 42,
                     "startColumn": 4,
-                    "startOffset": 6099,
-                    "endColumn": 230,
-                    "endOffset": 6325
+                    "startOffset": 4276,
+                    "endColumn": 105,
+                    "endOffset": 4377
                 },
                 "from": {
-                    "file": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-hu/base_strings.xml",
+                    "file": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/res/values-hu/values.xml",
                     "position": {
-                        "startLine": 15,
+                        "startLine": 24,
                         "startColumn": 4,
-                        "startOffset": 2270,
-                        "endColumn": 234,
-                        "endOffset": 2500
+                        "startOffset": 2247,
+                        "endColumn": 105,
+                        "endOffset": 2348
                     }
                 }
             },
@@ -785,18 +785,18 @@
                 "to": {
                     "startLine": 43,
                     "startColumn": 4,
-                    "startOffset": 6330,
-                    "endColumn": 140,
-                    "endOffset": 6466
+                    "startOffset": 4382,
+                    "endColumn": 95,
+                    "endOffset": 4473
                 },
                 "from": {
-                    "file": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-hu/base_strings.xml",
+                    "file": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/res/values-hu/values.xml",
                     "position": {
-                        "startLine": 14,
+                        "startLine": 25,
                         "startColumn": 4,
-                        "startOffset": 2129,
-                        "endColumn": 140,
-                        "endOffset": 2265
+                        "startOffset": 2353,
+                        "endColumn": 95,
+                        "endOffset": 2444
                     }
                 }
             },
@@ -804,18 +804,18 @@
                 "to": {
                     "startLine": 44,
                     "startColumn": 4,
-                    "startOffset": 6471,
-                    "endColumn": 201,
-                    "endOffset": 6668
+                    "startOffset": 4478,
+                    "endColumn": 97,
+                    "endOffset": 4571
                 },
                 "from": {
-                    "file": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-hu/base_strings.xml",
+                    "file": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/res/values-hu/values.xml",
                     "position": {
-                        "startLine": 13,
+                        "startLine": 26,
                         "startColumn": 4,
-                        "startOffset": 1927,
-                        "endColumn": 201,
-                        "endOffset": 2124
+                        "startOffset": 2449,
+                        "endColumn": 97,
+                        "endOffset": 2542
                     }
                 }
             },
@@ -823,18 +823,18 @@
                 "to": {
                     "startLine": 45,
                     "startColumn": 4,
-                    "startOffset": 6673,
-                    "endColumn": 99,
-                    "endOffset": 6768
+                    "startOffset": 4576,
+                    "endColumn": 146,
+                    "endOffset": 4718
                 },
                 "from": {
-                    "file": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-hu/base_strings.xml",
+                    "file": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/res/values-hu/values.xml",
                     "position": {
-                        "startLine": 23,
+                        "startLine": 27,
                         "startColumn": 4,
-                        "startOffset": 3648,
-                        "endColumn": 99,
-                        "endOffset": 3743
+                        "startOffset": 2547,
+                        "endColumn": 146,
+                        "endOffset": 2689
                     }
                 }
             },
@@ -842,18 +842,18 @@
                 "to": {
                     "startLine": 46,
                     "startColumn": 4,
-                    "startOffset": 6773,
-                    "endColumn": 97,
-                    "endOffset": 6866
+                    "startOffset": 4723,
+                    "endColumn": 130,
+                    "endOffset": 4849
                 },
                 "from": {
-                    "file": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-hu/base_strings.xml",
+                    "file": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/res/values-hu/values.xml",
                     "position": {
-                        "startLine": 29,
+                        "startLine": 28,
                         "startColumn": 4,
-                        "startOffset": 4707,
-                        "endColumn": 97,
-                        "endOffset": 4800
+                        "startOffset": 2694,
+                        "endColumn": 130,
+                        "endOffset": 2820
                     }
                 }
             },
@@ -861,18 +861,18 @@
                 "to": {
                     "startLine": 47,
                     "startColumn": 4,
-                    "startOffset": 6871,
-                    "endColumn": 117,
-                    "endOffset": 6984
+                    "startOffset": 4854,
+                    "endColumn": 134,
+                    "endOffset": 4984
                 },
                 "from": {
-                    "file": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-hu/base_strings.xml",
+                    "file": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/res/values-hu/values.xml",
                     "position": {
-                        "startLine": 30,
+                        "startLine": 29,
                         "startColumn": 4,
-                        "startOffset": 4805,
-                        "endColumn": 117,
-                        "endOffset": 4918
+                        "startOffset": 2825,
+                        "endColumn": 134,
+                        "endOffset": 2955
                     }
                 }
             },
@@ -880,9 +880,484 @@
                 "to": {
                     "startLine": 48,
                     "startColumn": 4,
-                    "startOffset": 6989,
+                    "startOffset": 4989,
+                    "endColumn": 125,
+                    "endOffset": 5110
+                },
+                "from": {
+                    "file": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/res/values-hu/values.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 2960,
+                        "endColumn": 125,
+                        "endOffset": 3081
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 5115,
+                    "endColumn": 95,
+                    "endOffset": 5206
+                },
+                "from": {
+                    "file": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/res/values-hu/values.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 3086,
+                        "endColumn": 95,
+                        "endOffset": 3177
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 5211,
+                    "endColumn": 90,
+                    "endOffset": 5297
+                },
+                "from": {
+                    "file": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/res/values-hu/values.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 3182,
+                        "endColumn": 90,
+                        "endOffset": 3268
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 5302,
+                    "endColumn": 104,
+                    "endOffset": 5402
+                },
+                "from": {
+                    "file": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/res/values-hu/values.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 3273,
+                        "endColumn": 104,
+                        "endOffset": 3373
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 5407,
+                    "endColumn": 87,
+                    "endOffset": 5490
+                },
+                "from": {
+                    "file": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/res/values-hu/values.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 3378,
+                        "endColumn": 87,
+                        "endOffset": 3461
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 5495,
+                    "endColumn": 112,
+                    "endOffset": 5603
+                },
+                "from": {
+                    "file": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/values-hu/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 329,
+                        "endColumn": 112,
+                        "endOffset": 437
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 5608,
+                    "endColumn": 215,
+                    "endOffset": 5819
+                },
+                "from": {
+                    "file": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/values-hu/values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 442,
+                        "endColumn": 215,
+                        "endOffset": 653
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 5824,
+                    "endColumn": 139,
+                    "endOffset": 5959
+                },
+                "from": {
+                    "file": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/values-hu/values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 658,
+                        "endColumn": 139,
+                        "endOffset": 793
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 5964,
+                    "endColumn": 140,
+                    "endOffset": 6100
+                },
+                "from": {
+                    "file": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/values-hu/values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 798,
+                        "endColumn": 140,
+                        "endOffset": 934
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 6105,
+                    "endColumn": 232,
+                    "endOffset": 6333
+                },
+                "from": {
+                    "file": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/values-hu/values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 939,
+                        "endColumn": 232,
+                        "endOffset": 1167
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 6338,
+                    "endColumn": 234,
+                    "endOffset": 6568
+                },
+                "from": {
+                    "file": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/values-hu/values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 1172,
+                        "endColumn": 234,
+                        "endOffset": 1402
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 6573,
+                    "endColumn": 139,
+                    "endOffset": 6708
+                },
+                "from": {
+                    "file": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/values-hu/values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 1407,
+                        "endColumn": 139,
+                        "endOffset": 1542
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 6713,
+                    "endColumn": 138,
+                    "endOffset": 6847
+                },
+                "from": {
+                    "file": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/values-hu/values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1547,
+                        "endColumn": 138,
+                        "endOffset": 1681
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 6852,
+                    "endColumn": 294,
+                    "endOffset": 7142
+                },
+                "from": {
+                    "file": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.4.0/res/values-hu/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 331,
+                        "endColumn": 294,
+                        "endOffset": 621
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 7147,
+                    "endColumn": 294,
+                    "endOffset": 7437
+                },
+                "from": {
+                    "file": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/values-hu/values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1686,
+                        "endColumn": 294,
+                        "endOffset": 1976
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 7442,
+                    "endColumn": 129,
+                    "endOffset": 7567
+                },
+                "from": {
+                    "file": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/values-hu/values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1981,
+                        "endColumn": 129,
+                        "endOffset": 2106
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 7572,
+                    "endColumn": 109,
+                    "endOffset": 7677
+                },
+                "from": {
+                    "file": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/values-hu/values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 2111,
+                        "endColumn": 109,
+                        "endOffset": 2216
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 7682,
+                    "endColumn": 215,
+                    "endOffset": 7893
+                },
+                "from": {
+                    "file": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/values-hu/values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 2221,
+                        "endColumn": 215,
+                        "endOffset": 2432
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 7898,
+                    "endColumn": 138,
+                    "endOffset": 8032
+                },
+                "from": {
+                    "file": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/values-hu/values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 2437,
+                        "endColumn": 138,
+                        "endOffset": 2571
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 8037,
+                    "endColumn": 230,
+                    "endOffset": 8263
+                },
+                "from": {
+                    "file": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/values-hu/values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 2576,
+                        "endColumn": 230,
+                        "endOffset": 2802
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 8268,
+                    "endColumn": 140,
+                    "endOffset": 8404
+                },
+                "from": {
+                    "file": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/values-hu/values.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 2807,
+                        "endColumn": 140,
+                        "endOffset": 2943
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 69,
+                    "startColumn": 4,
+                    "startOffset": 8409,
+                    "endColumn": 201,
+                    "endOffset": 8606
+                },
+                "from": {
+                    "file": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/values-hu/values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 2948,
+                        "endColumn": 201,
+                        "endOffset": 3145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 8611,
+                    "endColumn": 100,
+                    "endOffset": 8707
+                },
+                "from": {
+                    "file": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/values-hu/values.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 3150,
+                        "endColumn": 100,
+                        "endOffset": 3246
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 8712,
+                    "endColumn": 97,
+                    "endOffset": 8805
+                },
+                "from": {
+                    "file": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/values-hu/values.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 3251,
+                        "endColumn": 97,
+                        "endOffset": 3344
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 72,
+                    "startColumn": 4,
+                    "startOffset": 8810,
                     "endColumn": 116,
-                    "endOffset": 7101
+                    "endOffset": 8922
+                },
+                "from": {
+                    "file": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/values-hu/values.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 3349,
+                        "endColumn": 116,
+                        "endOffset": 3461
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 73,
+                    "startColumn": 4,
+                    "startOffset": 8927,
+                    "endColumn": 116,
+                    "endOffset": 9039
                 },
                 "from": {
                     "file": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-hu/values-hu.xml",
@@ -897,11 +1372,11 @@
             },
             {
                 "to": {
-                    "startLine": 49,
+                    "startLine": 74,
                     "startColumn": 4,
-                    "startOffset": 7106,
+                    "startOffset": 9044,
                     "endColumn": 105,
-                    "endOffset": 7207
+                    "endOffset": 9145
                 },
                 "from": {
                     "file": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-hu/values-hu.xml",
@@ -916,11 +1391,11 @@
             },
             {
                 "to": {
-                    "startLine": 50,
+                    "startLine": 75,
                     "startColumn": 4,
-                    "startOffset": 7212,
+                    "startOffset": 9150,
                     "endColumn": 114,
-                    "endOffset": 7322
+                    "endOffset": 9260
                 },
                 "from": {
                     "file": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-hu/values-hu.xml",
@@ -935,11 +1410,11 @@
             },
             {
                 "to": {
-                    "startLine": 51,
+                    "startLine": 76,
                     "startColumn": 4,
-                    "startOffset": 7327,
+                    "startOffset": 9265,
                     "endColumn": 105,
-                    "endOffset": 7428
+                    "endOffset": 9366
                 },
                 "from": {
                     "file": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-hu/values-hu.xml",
@@ -954,11 +1429,11 @@
             },
             {
                 "to": {
-                    "startLine": 52,
+                    "startLine": 77,
                     "startColumn": 4,
-                    "startOffset": 7433,
+                    "startOffset": 9371,
                     "endColumn": 118,
-                    "endOffset": 7547
+                    "endOffset": 9485
                 },
                 "from": {
                     "file": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-hu/values-hu.xml",
@@ -973,11 +1448,11 @@
             },
             {
                 "to": {
-                    "startLine": 53,
+                    "startLine": 78,
                     "startColumn": 4,
-                    "startOffset": 7552,
+                    "startOffset": 9490,
                     "endColumn": 103,
-                    "endOffset": 7651
+                    "endOffset": 9589
                 },
                 "from": {
                     "file": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-hu/values-hu.xml",
@@ -992,11 +1467,11 @@
             },
             {
                 "to": {
-                    "startLine": 54,
+                    "startLine": 79,
                     "startColumn": 4,
-                    "startOffset": 7656,
+                    "startOffset": 9594,
                     "endColumn": 96,
-                    "endOffset": 7748
+                    "endOffset": 9686
                 },
                 "from": {
                     "file": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-hu/values-hu.xml",
@@ -1011,11 +1486,11 @@
             },
             {
                 "to": {
-                    "startLine": 55,
+                    "startLine": 80,
                     "startColumn": 4,
-                    "startOffset": 7753,
+                    "startOffset": 9691,
                     "endColumn": 123,
-                    "endOffset": 7872
+                    "endOffset": 9810
                 },
                 "from": {
                     "file": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-hu/values-hu.xml",
@@ -1030,11 +1505,11 @@
             },
             {
                 "to": {
-                    "startLine": 56,
+                    "startLine": 81,
                     "startColumn": 4,
-                    "startOffset": 7877,
+                    "startOffset": 9815,
                     "endColumn": 108,
-                    "endOffset": 7981
+                    "endOffset": 9919
                 },
                 "from": {
                     "file": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-hu/values-hu.xml",
@@ -1049,11 +1524,11 @@
             },
             {
                 "to": {
-                    "startLine": 57,
+                    "startLine": 82,
                     "startColumn": 4,
-                    "startOffset": 7986,
+                    "startOffset": 9924,
                     "endColumn": 87,
-                    "endOffset": 8069
+                    "endOffset": 10007
                 },
                 "from": {
                     "file": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-hu/values-hu.xml",
@@ -1068,11 +1543,11 @@
             },
             {
                 "to": {
-                    "startLine": 58,
+                    "startLine": 83,
                     "startColumn": 4,
-                    "startOffset": 8074,
+                    "startOffset": 10012,
                     "endColumn": 94,
-                    "endOffset": 8164
+                    "endOffset": 10102
                 },
                 "from": {
                     "file": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-hu/values-hu.xml",
@@ -1087,49 +1562,49 @@
             },
             {
                 "to": {
-                    "startLine": 59,
+                    "startLine": 84,
                     "startColumn": 4,
-                    "startOffset": 8169,
+                    "startOffset": 10107,
                     "endColumn": 105,
-                    "endOffset": 8270
+                    "endOffset": 10208
                 },
                 "from": {
-                    "file": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.4.0/res/values-hu/location_strings.xml",
+                    "file": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.4.0/res/values-hu/values.xml",
                     "position": {
-                        "startLine": 6,
+                        "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 327,
+                        "startOffset": 281,
                         "endColumn": 105,
-                        "endOffset": 428
+                        "endOffset": 382
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 60,
+                    "startLine": 85,
                     "startColumn": 4,
-                    "startOffset": 8275,
+                    "startOffset": 10213,
                     "endColumn": 96,
-                    "endOffset": 8367
+                    "endOffset": 10305
                 },
                 "from": {
-                    "file": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.4.0/res/values-hu/location_strings.xml",
+                    "file": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.4.0/res/values-hu/values.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 230,
+                        "startOffset": 387,
                         "endColumn": 96,
-                        "endOffset": 322
+                        "endOffset": 479
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 61,
+                    "startLine": 86,
                     "startColumn": 4,
-                    "startOffset": 8372,
+                    "startOffset": 10310,
                     "endColumn": 100,
-                    "endOffset": 8468
+                    "endOffset": 10406
                 },
                 "from": {
                     "file": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-hu/values-hu.xml",
@@ -1144,20 +1619,20 @@
             },
             {
                 "to": {
-                    "startLine": 62,
+                    "startLine": 87,
                     "startColumn": 4,
-                    "startOffset": 8473,
-                    "endColumn": 110,
-                    "endOffset": 8579
+                    "startOffset": 10411,
+                    "endColumn": 109,
+                    "endOffset": 10516
                 },
                 "from": {
-                    "file": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/8.4.0/res/values-hu/wallet_strings.xml",
+                    "file": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/9.4.0/res/values-hu/values.xml",
                     "position": {
-                        "startLine": 5,
+                        "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 230,
-                        "endColumn": 110,
-                        "endOffset": 336
+                        "startOffset": 288,
+                        "endColumn": 109,
+                        "endOffset": 393
                     }
                 }
             }

@@ -1,16 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.megotechnologies.conference_retronight.test">
+    package="com.megotechnologies.conference_retronight.test" >
 
-    <uses-sdk android:minSdkVersion="9" android:targetSdkVersion="21" />
+    <uses-sdk
+        android:minSdkVersion="9"
+        android:targetSdkVersion="21" />
+
+    <instrumentation
+        android:name="com.android.test.runner.MultiDexTestRunner"
+        android:functionalTest="false"
+        android:handleProfiling="false"
+        android:label="Tests for com.megotechnologies.conference_retronight"
+        android:targetPackage="com.megotechnologies.conference_retronight" />
 
     <application>
         <uses-library android:name="android.test.runner" />
     </application>
 
-    <instrumentation android:name="android.test.InstrumentationTestRunner"
-                     android:targetPackage="com.megotechnologies.conference_retronight"
-                     android:handleProfiling="false"
-                     android:functionalTest="false"
-                     android:label="Tests for com.megotechnologies.conference_retronight"/>
 </manifest>

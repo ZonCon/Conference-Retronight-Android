@@ -10,6 +10,7 @@ android {
         applicationId "com.megotechnologies.conference_retronight"
         minSdkVersion 9
         targetSdkVersion 21
+        multiDexEnabled true
     }
 
     buildTypes {

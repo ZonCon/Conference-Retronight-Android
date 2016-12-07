@@ -1,19 +1,19 @@
 package com.megotechnologies.conference_retronight;
 
 import android.app.Activity;
-import android.app.Application;
 import android.app.Application.ActivityLifecycleCallbacks;
 import android.content.ComponentCallbacks2;
 import android.content.Context;
 import android.content.SharedPreferences;
 import android.os.Bundle;
+import android.support.multidex.MultiDexApplication;
 
 import com.megotechnologies.conference_retronight.db.DbConnection;
 
 import java.util.Timer;
 import java.util.TimerTask;
 
-public class ZonConApplication extends Application implements ActivityLifecycleCallbacks, ComponentCallbacks2{
+public class ZonConApplication extends MultiDexApplication implements ActivityLifecycleCallbacks, ComponentCallbacks2{
 
 	public SharedPreferences sharedPreferences;
 

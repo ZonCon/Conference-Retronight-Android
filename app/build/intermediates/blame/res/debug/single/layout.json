@@ -36,6 +36,10 @@
         "source": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/notification_template_big_media.xml"
     },
     {
+        "merged": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/res/merged/debug/layout/cast_tracks_chooser_dialog_layout.xml",
+        "source": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/res/layout/cast_tracks_chooser_dialog_layout.xml"
+    },
+    {
         "merged": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
         "source": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/support_simple_spinner_dropdown_item.xml"
     },
@@ -57,7 +61,7 @@
     },
     {
         "merged": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/res/merged/debug/layout/place_autocomplete_progress.xml",
-        "source": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.4.0/res/layout/place_autocomplete_progress.xml"
+        "source": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.4.0/res/layout/place_autocomplete_progress.xml"
     },
     {
         "merged": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/res/merged/debug/layout/fragment_alert_itemslist.xml",
@@ -65,7 +69,11 @@
     },
     {
         "merged": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/res/merged/debug/layout/place_autocomplete_fragment.xml",
-        "source": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.4.0/res/layout/place_autocomplete_fragment.xml"
+        "source": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.4.0/res/layout/place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/res/merged/debug/layout/cast_mini_controller.xml",
+        "source": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/res/layout/cast_mini_controller.xml"
     },
     {
         "merged": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/res/merged/debug/layout/fragment_loading.xml",
@@ -92,6 +100,10 @@
         "source": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/src/main/res/layout/fragment_section_itemdetails.xml"
     },
     {
+        "merged": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/res/merged/debug/layout/cast_help_text.xml",
+        "source": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/res/layout/cast_help_text.xml"
+    },
+    {
         "merged": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/res/merged/debug/layout/fragment_menu.xml",
         "source": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/src/main/res/layout/fragment_menu.xml"
     },
@@ -101,7 +113,7 @@
     },
     {
         "merged": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/res/merged/debug/layout/place_autocomplete_item_powered_by_google.xml",
-        "source": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.4.0/res/layout/place_autocomplete_item_powered_by_google.xml"
+        "source": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.4.0/res/layout/place_autocomplete_item_powered_by_google.xml"
     },
     {
         "merged": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/res/merged/debug/layout/fragment_policy_itemdetails.xml",
@@ -117,7 +129,7 @@
     },
     {
         "merged": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/res/merged/debug/layout/place_autocomplete_item_prediction.xml",
-        "source": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.4.0/res/layout/place_autocomplete_item_prediction.xml"
+        "source": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.4.0/res/layout/place_autocomplete_item_prediction.xml"
     },
     {
         "merged": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
@@ -164,6 +176,10 @@
         "source": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_list_menu_item_layout.xml"
     },
     {
+        "merged": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/res/merged/debug/layout/cast_expanded_controller_activity.xml",
+        "source": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/res/layout/cast_expanded_controller_activity.xml"
+    },
+    {
         "merged": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
         "source": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_action_mode_bar.xml"
     },
@@ -188,6 +204,10 @@
         "source": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_action_bar_view_list_nav_layout.xml"
     },
     {
+        "merged": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/res/merged/debug/layout/cast_intro_overlay.xml",
+        "source": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/res/layout/cast_intro_overlay.xml"
+    },
+    {
         "merged": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/res/merged/debug/layout/fragment_policy_itemslist.xml",
         "source": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/src/main/res/layout/fragment_policy_itemslist.xml"
     },
@@ -198,6 +218,10 @@
     {
         "merged": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
         "source": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/res/merged/debug/layout/cast_tracks_chooser_dialog_row_layout.xml",
+        "source": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/res/layout/cast_tracks_chooser_dialog_row_layout.xml"
     },
     {
         "merged": "/Users/hrushim/StudioProjects/Zoncon_Conference_Retronight/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
